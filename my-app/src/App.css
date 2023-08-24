@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-image:  url("../../my-app/public/galeria/tecnologia.jpg");
+  /* display: block; */
+  color: rgb(14, 13, 13);
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 60;
+  background-color: transparent;
+  padding:20px ;
+  box-shadow: 10px 10px 5px 0px rgba(7,8,2,4.75)
+  
+  
+ 
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+section {
+  padding: 40px;
+}
